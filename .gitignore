@@ -15,6 +15,10 @@ db.sqlite3
 # secrets 🤑
 .env
 
+# logs
+logs/
+logs.log
+
 # media 😵‍💫
 media/
 
