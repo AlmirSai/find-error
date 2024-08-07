@@ -1,0 +1,22 @@
+# ide settings 😢
+.vscode/
+.idea/
+
+# venv 👺
+venv/
+
+# django and python trash 😐
+__pycache__/
+migrations/
+
+# database 🤫
+db.sqlite3
+
+# secrets 🤑
+.env
+
+# media 😵‍💫
+media/
+
+# notes 🫣
+notes
